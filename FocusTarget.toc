@@ -1,0 +1,5 @@
+## Interface: 30300
+## Title: Focus Target
+## Notes: Shows your focus target in a small frame (like the default ToT), with a clickable portrait, HP, name.
+## Author: MRWH1TE117
+AltEquipBoE.lua
